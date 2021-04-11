@@ -22,6 +22,8 @@ I am Amey Bhogaonkar, I have completed my bachelor's degree majoring in computer
 ![Django-RestFramework](https://img.shields.io/badge/Django--RestFramework-3.12.4-blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amey1109&hide=TeX&layout=compact)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Amey1109.Amey1109)
 
 
