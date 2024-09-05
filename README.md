@@ -3,7 +3,6 @@
 I am Amey Bhogaonkar, I have completed my bachelor's degree majoring in computer engineering from [Rajiv Gandhi Institute of Technology, Mumbai](http://mctrgit.ac.in/) & currently an Jr. Software Engineer at [Everestek LLC](https://www.everestek.com/). I am a tech enthusiast & a petrolhead. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AmeyBhogaonkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amey-bhogaonkar-81907b172/)](https://www.linkedin.com/in/amey-bhogaonkar-81907b172/)
-[![Instagram Badge](https://img.shields.io/badge/-_ameya11_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_ameya11_/)](https://www.instagram.com/_ameya11_/)
 [![Gmail Badge](https://img.shields.io/badge/-bhogaonkaramey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhogaonkaramey@gmail.com)](mailto:bhogaonkaramey@gmail.com)
 
 ## ⚡ Technologies
